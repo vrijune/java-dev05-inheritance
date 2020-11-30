@@ -9,6 +9,7 @@ public interface IAnimal {
     /**
      * Returns a string containing the greeting
      */
+
     public String sayHello();
 
     /**
